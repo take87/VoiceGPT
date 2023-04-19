@@ -12,7 +12,7 @@ engine = DNNTTS()
 
 TEMPLATE_PATH = "./data/template.txt"
 SYSTEM_TEMPLATE_PATH = "./data/system_template.txt"
-API_KEY = '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'
+API_KEY = 'gpt3.5-apikey'
 
 app = FastAPI()
 
